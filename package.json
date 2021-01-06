@@ -11,7 +11,7 @@
     "@philly25/react-native-paytm": "^1.0.12",
     "@react-native-community/geolocation": "^2.0.2",
     "async": "^3.1.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "expo": "^35.0.0",
     "expo-location": "^7.0.0",
     "expo-permissions": "^8.0.0",
